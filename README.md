@@ -58,13 +58,13 @@ I try my best to not patch Zabbix's code, but still did a little to integrate th
 
 License
 -------
-[GNU GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[FreeBSD License](http://www.freebsd.org/copyright/freebsd-license.html)
 
 
 Authors
 -------
-- [giapnguyen](https://github.com/giapnguyen) – February 2010
-- [J. Cernek](http://jakub.cernek.cz/) – December 2012
+- [Giap Nguyen](https://github.com/giapnguyen), 2009 – 2010
+- [J. Cernek](http://jakub.cernek.cz/), December 2012
 
 
 Alternatives
